@@ -1,6 +1,4 @@
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
+
 
 <h1 align="left">"Olá, mundo!"👋 Meu nome é Flávio Vitório.<br>Um entusiasta de tecnologia💻📖</h1>
 
