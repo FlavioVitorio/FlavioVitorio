@@ -1,3 +1,6 @@
+Your Readme is Done 🎉🎉🎉
+Star This Project
+Fork on Github
 
 <h1 align="left">"Olá, mundo!"👋 Meu nome é Flávio Vitório.<br>Um entusiasta de tecnologia💻📖</h1>
 
@@ -26,14 +29,6 @@
 <div align="center">
   <img src="https://count.getloli.com/@:FlavioVitorio?theme=morden-num&padding=5&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/FlavioVitorio/FlavioVitorio/output/snake.svg" alt="Snake animation" />
-
-###
 
 ###
 
