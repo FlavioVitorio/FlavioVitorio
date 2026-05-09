@@ -24,7 +24,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FlavioVitorio/FlavioVitorio/stats-output/stats.svg" height="149" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/FlavioVitorio/FlavioVitorio/stats-output/stats.svg" height="160" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/FlavioVitorio/FlavioVitorio/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
